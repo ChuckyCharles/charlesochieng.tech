@@ -3,6 +3,7 @@ title: "Multi-Cloud Adoption in 2025"
 datePublished: Sat Sep 21 2024 13:34:02 GMT+0000 (Coordinated Universal Time)
 cuid: cm1c6xtel001w08ld98j149vb
 slug: multi-cloud-adoption-in-2025
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727262031411/3bb2dfc7-9c7c-486d-a892-501441330621.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1727256508287/1784c59f-eee4-49db-a9ed-5ccd92ce1c8f.jpeg
 tags: cloud, cloud-computing
 
