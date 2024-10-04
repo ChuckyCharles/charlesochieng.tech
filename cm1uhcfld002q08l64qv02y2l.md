@@ -18,9 +18,9 @@ Containers are lightweight, portable units that encapsulate an application and i
 
 This encapsulation ensures that the application runs consistently across different environments , from developments to production. Docker is one of the most popular containerization platforms, providing tools to create, deploy and manage containers.
 
-## Understanding Containers
-
 Unlike traditional virtual machines (VMs), which require a hypervisor and an entire OS, containers share the host OS kernel, making them more efficient in terms of resource usage. This efficiency is crucial for DevOps teams aiming to streamline development cycles and deployment.
+
+## The Role of containers in DevOps
 
 1. **Consistency Across Environments**
     
